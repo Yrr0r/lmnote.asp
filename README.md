@@ -5,7 +5,7 @@ This is a simple small ASP applet that enables you to leave notes onto server an
 
 **Chinese may not be saved to file correctly in many occations.**
 
-**This applet is only designed for personal use, usually in a small local network when all device is trusted. If you open this applet to the public internet then be prepared for a flooded notes folder.** There is no feature like authentication or password protection in this very small applet.
+**This applet is only designed for assist in dev enviromment, usually in a small local network when all device is trusted. If you open this applet to the public internet then be prepared for a flooded notes folder and all sorts of attack.** There is no feature like authentication or password protection in this very small applet.
 
 ### Usage
 
