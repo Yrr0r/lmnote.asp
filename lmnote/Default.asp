@@ -43,8 +43,8 @@ value="<%Response.Write(timestring)%>"/> </td>
 <a href="">RESET</a>
 
 </br>
-<h3>Warning: 
-Chinese may not work on many occations.</h3>
+<h3>Warning: VBS does not support UTF-8, on Chinese systems it uses GBK. </br>
+Non-English characters may not work.</h3>
 
 <p>
 Status: </br>
